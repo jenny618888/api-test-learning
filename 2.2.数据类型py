@@ -1,0 +1,10 @@
+String_type = type ("apple")
+int_type = type (666)
+float_type = type (11.33)
+print(String_type)
+print(int_type)
+print(float_type)
+
+name = "apple"
+type_name = type(name)
+print(type_name)
